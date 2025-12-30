@@ -52,6 +52,7 @@ I care about **leverage**: automation, intelligence, and systems that keep runni
   <a href="https://github.com/KEERTHI2355"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" /></a>
   <a href="https://www.linkedin.com/in/k-keerthi-948659310"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
   <a href="mailto:keerthishetty383@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" /></a>
+  <a href="http://instagram.com/keerthi__shetty_"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"></a>
 </p>
 
 ---
